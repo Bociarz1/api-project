@@ -1,0 +1,16 @@
+{
+  "persons": [
+    {
+      "userName": "App",
+      "comment": "You can ADD and DELETE users",
+      "sex": "female",
+      "id": 3
+    },
+    {
+      "userName": "Adrian",
+      "comment": "To build app I use some technologies",
+      "sex": "male",
+      "id": 4
+    }
+  ]
+}
