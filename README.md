@@ -1,4 +1,4 @@
-# App link:
+# Github-pages link:
 https://bociarz1.github.io/api-project/
 
 # App gets requests from json-server so:
